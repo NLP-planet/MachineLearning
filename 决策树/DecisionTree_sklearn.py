@@ -2,7 +2,7 @@
 # 开发人员  : Gaogz
 # 开发时间  : 2024-05-06 14:06
 # 开发工具  : PyCharm
-# 文件名称  : DecisionTree.py
+# 文件名称  : DecisionTree_sklearn.py
 # 描述 ：
 """
     通过树形结构来实现分类的一种算法，关键在于如何选择最优属性
